@@ -1,0 +1,21 @@
+## Other
+Release/
+Debug/
+
+## Eclipse
+.classpath
+.project
+.cproject
+.metadata
+**/bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+

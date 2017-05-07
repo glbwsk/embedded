@@ -4,8 +4,6 @@ Debug/
 
 ## Eclipse
 .classpath
-.project
-.cproject
 .metadata
 **/bin/
 tmp/

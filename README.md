@@ -1,4 +1,3 @@
-# embedded
-Embedded Systems - sem 3
-Reflex game 
+# embedded-reflex-game
+Reflex-game for LPC1768
  
